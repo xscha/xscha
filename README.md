@@ -6,9 +6,9 @@
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Education</h2>
- - Cybersecurity  <br>
- - Information Technology  <br>
- - Network Administration <br>
+ - Cybersecurity A.A.S <br>
+ - Information Technology A.S <br>
+ - Network Administration C.S.C <br>
  
 
 <h2>Contact Me</h2>
