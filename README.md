@@ -5,6 +5,8 @@
   - [Hello World!](https://github.com/xscha/Hello-World-Lab/)
   - [Steganography](https://github.com/xscha/Steganography-Project)
 
+<h2>Java Practice</h2>
+
 <h2>Education</h2>
  - Cybersecurity A.A.S <br>
  - Information Technology A.S <br>
