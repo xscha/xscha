@@ -2,7 +2,6 @@
 
 <h2>Cybersecurity & IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Education</h2>
