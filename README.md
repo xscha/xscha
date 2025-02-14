@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity & IT Projects:</h2>
 
-  - [Steganography](https://github.com/xscha/Steganography-Project)
+  - [Penetration Testing Project](https://github.com/xscha/Penetration-Testing-Project)
 
 <h2>Java Practice</h2>
 
