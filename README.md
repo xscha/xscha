@@ -7,6 +7,7 @@
 <h2>Java Practice</h2>
 
 - [Hello World!](https://github.com/xscha/Hello-World-Lab/)
+- [IF-ELSE IF](https://github.com/xscha/Test-Score-Java/tree/main)
 
 <h2>Education</h2>
  - Cybersecurity A.A.S <br>
