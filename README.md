@@ -3,6 +3,7 @@
 <h2>Cybersecurity & IT Projects:</h2>
 
   - [Penetration Testing Project](https://github.com/xscha/Penetration-Testing-Project)
+  - [Recognizing the Use of Steganography](https://github.com/xscha/Steganography-ForensicEvidence)
 
 <h2>Java Practice</h2>
 
